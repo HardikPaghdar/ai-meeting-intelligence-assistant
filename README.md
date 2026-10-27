@@ -26,3 +26,9 @@ PY
 
 ## Limitations
 This is a text heuristic, not speech recognition or an LLM summarizer. It will miss implied tasks, may misidentify names, and does not infer dates or speaker identity. Always check the output against the original meeting. A next step is adding a transcript-provider interface, calendar-aware due dates, and a review screen before exporting tasks to project-management tools.
+
+## Explore more
+
+- [AI Automated QA Test Generator](https://github.com/HardikPaghdar/ai-automated-qa-test-generator) — turns requirements into a test checklist.
+- [Agentic Sales Outreach Copilot](https://github.com/HardikPaghdar/agentic-sales-outreach-copilot) — human-reviewed outreach drafts.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
